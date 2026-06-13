@@ -24,6 +24,17 @@ Please read the following carefully before using this project:
 - **⚖️ Compliant Use**: Use this project only in compliance with the laws and regulations of your country or region. Any unlawful use is strictly prohibited.
 - **📖 Disclaimer**: This project is provided for technical learning and research purposes only. The authors assume no liability for account bans, service interruptions, data loss, or any other direct or indirect damages resulting from the use of this project.
 
+
+## ULing19 Usage Guide / 使用文档
+
+- Public API gateway / 公开中转入口: `https://api-provider.uling19.com`
+- Usage docs / 使用文档: `https://api-provider.uling19.com/docs/usage`
+- Playground / 操练台: `https://ai.uling19.com`
+
+中文：ULing19 部署的使用文档已加入 `ai.uling19.com` 操练台入口，用户可以在浏览器里用自己的 API Key、Base URL、文本模型和图片路由做快速验证。
+
+English: The ULing19 usage guide links `ai.uling19.com` as a browser playground for testing a user-owned API key, Base URL, text models, and image routes.
+
 ## Overview
 
 Sub2API is an AI API gateway platform designed to distribute and manage API quotas from AI product subscriptions. Users can access upstream AI services through platform-generated API Keys, while the platform handles authentication, billing, load balancing, and request forwarding.
